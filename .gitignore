@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# Pycharm
+.idea
+
+#Results
+#sounds/*
+# exception to the rule
+#!sounds/.ignore
+
+# TMP mp3 file
+current.mp3
