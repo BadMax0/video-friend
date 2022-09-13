@@ -1,8 +1,38 @@
-Всем привет. С вами Леонид. И вы на канале random coder!
-Инна
-Инна Леонидовна
-На github
-Десять
+Всем привет!
+Русский
+Поздравляю вас с днем программиста!/ru
+Английский
+Congratulations on the day of the programmer!/en
+Польский
+Gratulacje w dniu programisty!/pl
+Немецкий
+Herzlichen Glückwunsch zum Tag des Programmierers!/de
+Чешский
+Gratulujeme ke dni programátora!/cs
+Греческий
+Συγχαρητήρια για την ημέρα του προγραμματιστή!/el
+Испанский
+¡Felicidades en el día del programador!/es
+Финский
+Onnittelut ohjelmoijan päivästä!/fi
+Французский
+Félicitations pour la journée du programmeur!/fr
+Итальянский
+Congratulazioni per il giorno del programmatore!/it
+Японский
+プログラマーの日おめでとう！/ja
+Корейский
+프로그래머의 날을 축하합니다!/ko
+Латинский
+Gratulor die programmatoris!/la
+Норвежский
+Gratulerer med programmeringsdagen!/no
+Тайский
+ขอแสดงความยินดีในวันโปรแกรมเมอร์!/th
+Турецкий
+Programcı gününüz için tebrikler!/tr
+Китайский
+祝賀程序員的一天！/zh-CN
+Прикол с арабским языком
 Всем пока!
-
 
